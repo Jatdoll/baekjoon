@@ -4,11 +4,11 @@ using namespace std;
 
 int main()
 {
-    int a = 472;
-    int b = 385;
+    int a = 0;
+    int b = 0;
 
-    //cin >> a;
-    //cin >> b;
+    cin >> a;
+    cin >> b;
 
     string s = to_string(b);
 
